@@ -16,16 +16,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/underdarkskies/ravencore-p2p.git"
+    "url": "https://github.com/OverstockMedici/ravencore-p2p.git"
   },
   "dependencies": {
-    "ravencore-lib": "underdarkskies/ravencore-lib",
+    "ravencore-lib": "OverstockMedici/ravencore-lib",
     "bloom-filter": "^0.2.0",
-    "buffers": "underdarkskies/node-buffers",
+    "buffers": "OverstockMedici/node-buffers",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "ravencore-build": "underdarkskies/ravencore-build",
+    "ravencore-build": "OverstockMedici/ravencore-build",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
