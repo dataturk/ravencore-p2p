@@ -16,7 +16,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/OverstockMedici/ravencore-p2p.git"
+    "url": "https://github.com/RavenDevKit/ravencore-p2p.git"
   },
   "dependencies": {
     "ravencore-lib": "OverstockMedici/ravencore-lib",
