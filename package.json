@@ -19,13 +19,13 @@
     "url": "https://github.com/RavenDevKit/ravencore-p2p.git"
   },
   "dependencies": {
-    "ravencore-lib": "OverstockMedici/ravencore-lib",
+    "ravencore-lib": "RavenDevKit/ravencore-lib",
     "bloom-filter": "^0.2.0",
-    "buffers": "OverstockMedici/node-buffers",
+    "buffers": "RavenDevKit/node-buffers",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "ravencore-build": "OverstockMedici/ravencore-build",
+    "ravencore-build": "RavenDevKit/ravencore-build",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
