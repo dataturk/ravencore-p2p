@@ -19,7 +19,7 @@
     "url": "https://github.com/RavenDevKit/ravencore-p2p.git"
   },
   "dependencies": {
-    "ravencore-lib": "RavenDevKit/ravencore-lib",
+    "@ravendevkit/ravencore-lib": "^1.0.3",
     "bloom-filter": "^0.2.0",
     "buffers": "RavenDevKit/node-buffers",
     "socks5-client": "^0.3.6"
