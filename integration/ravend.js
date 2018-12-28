@@ -6,7 +6,7 @@ var chai = require('chai');
 var should = chai.should();
 var sinon = require('sinon');
 
-var ravencore = require('ravencore-lib');
+var ravencore = require('@ravendevkit/ravencore-lib');
 var _ = ravencore.deps._;
 var Random = ravencore.crypto.Random;
 var BN = ravencore.crypto.BN;

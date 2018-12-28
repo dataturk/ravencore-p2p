@@ -4,7 +4,7 @@
 
 var should = require('chai').should();
 
-var ravencore = require('ravencore-lib');
+var ravencore = require('@ravendevkit/ravencore-lib');
 var P2P = require('../');
 var Inventory = P2P.Inventory;
 var BufferUtils = ravencore.util.buffer;
