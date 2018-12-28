@@ -21,7 +21,7 @@
   "dependencies": {
     "@ravendevkit/ravencore-lib": "^1.0.3",
     "bloom-filter": "^0.2.0",
-    "buffers": "RavenDevKit/node-buffers",
+    "node-buffers": "RavenDevKit/node-buffers",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
