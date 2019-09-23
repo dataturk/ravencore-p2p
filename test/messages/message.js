@@ -3,7 +3,7 @@
 var should = require('chai').should();
 var P2P = require('../../');
 var Message = P2P.Messages.Message;
-var Networks = require('@ravendevkit/ravencore-lib').Networks;
+var Networks = require('ravencore-lib').Networks;
 
 describe('Message', function() {
 
