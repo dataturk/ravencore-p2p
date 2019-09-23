@@ -1,6 +1,6 @@
 let Pool = require('ravencore-p2p').Pool;
 let BloomFilter = require('ravencore-p2p').BloomFilter;
-let NetworksData = require('@ravendevkit/ravencore-lib').Networks;
+let NetworksData = require('ravencore-lib').Networks;
 let Messages = require('ravencore-p2p').Messages;
 
 let network = 'livenet';  // Network can be livenet or testnet
