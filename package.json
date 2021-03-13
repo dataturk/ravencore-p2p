@@ -16,16 +16,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/RavenDevKit/ravencore-p2p.git"
+    "url": "https://github.com/dataturk/ravencore-p2p.git"
   },
   "dependencies": {
-    "ravencore-lib": "RavenDevKit/ravencore-lib",
+    "ravencore-lib": "dataturk/ravencore-lib",
     "bloom-filter": "^0.2.0",
-    "node-buffers": "RavenDevKit/node-buffers",
+    "node-buffers": "dataturk/node-buffers",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "ravencore-build": "RavenDevKit/ravencore-build",
+    "ravencore-build": "dataturk/ravencore-build",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",

@@ -3,7 +3,7 @@ Ravencore P2P
 
 `ravencore-p2p` adds [Ravencoin protocol](https://en.bitcoin.it/wiki/Protocol_documentation) support for Ravencore.
 
-See [the main ravencore repo](https://github.com/RavenDevKit/ravencore) for more information.
+See [the main ravencore repo](https://github.com/dataturk/ravencore) for more information.
 
 ## Getting Started
 
@@ -43,8 +43,8 @@ Take a look at the [bitcore guide](http://bitcore.io/guide/peer.html) on the usa
 
 ## Contributing
 
-See [CONTRIBUTING.md](https://github.com/RavenDevKit/ravencore/blob/master/CONTRIBUTING.md) on the main ravencore repo for information about how to contribute.
+See [CONTRIBUTING.md](https://github.com/dataturk/ravencore/blob/master/CONTRIBUTING.md) on the main ravencore repo for information about how to contribute.
 
 ## License
 
-Code released under [the MIT license](https://github.com/RavenDevKit/ravencore/blob/master/LICENSE).
+Code released under [the MIT license](https://github.com/dataturk/ravencore/blob/master/LICENSE).
